@@ -17,14 +17,14 @@ html {
   h1 {
     margin: 0;
     padding: 20px 0;
-    color: #879f00;
-    text-shadow: 3px 3px 1px rgb(229, 233, 11);
+    color: #ebdc0e;
+    text-shadow: 3px 3px 1px rgb(28, 29, 6);
   }
   h2 {
     margin: 0;
     padding: 20px 0;
-    color: #4a0c7c;
-    text-shadow: 3px 3px 1px rgb(66, 8, 71);
+    color: #9356c5;
+    text-shadow: 3px 3px 1px rgb(16, 3, 31);
   }
   img {
     display: block;
